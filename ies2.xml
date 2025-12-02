@@ -341,6 +341,337 @@
     <tipo>Modular</tipo>
     <nombre>ENFERMERÍA TÉCNICA</nombre>
     <unidaddes_didacticas>
+      <plan_2>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:32</fecha_registro>
+        <mod_4>
+          <nro_modulo>1</nro_modulo>
+          <descripcion>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</descripcion>
+          <se_3>
+            <descripcion>III</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_3>
+          <se_4>
+            <descripcion>IV</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_4>
+        </mod_4>
+        <mod_5>
+          <nro_modulo>2</nro_modulo>
+          <descripcion>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</descripcion>
+          <se_3>
+            <descripcion>III</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_3>
+          <se_4>
+            <descripcion>IV</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_4>
+        </mod_5>
+        <mod_6>
+          <nro_modulo>3</nro_modulo>
+          <descripcion>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</descripcion>
+          <se_3>
+            <descripcion>III</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_3>
+          <se_4>
+            <descripcion>IV</descripcion>
+            <se_8>
+              <nombre>METODOLOGÍA DE DESARROLLO DE SOFTWARE</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_8>
+            <se_9>
+              <nombre>PROGRAMACIÓN ORIENTADA A OBJETOS</nombre>
+              <creditos_teorico>0</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_9>
+            <se_10>
+              <nombre>ARQUITECTURA DE SERVIDORES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_10>
+            <se_11>
+              <nombre>APLICACIONES SISTEMATIZADAS </nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_11>
+            <se_12>
+              <nombre>TALLER DE BASE DE DATOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_12>
+            <se_13>
+              <nombre>INTERPRETACIÓN Y PRODUCCIÓN DE TEXTOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_13>
+            <se_14>
+              <nombre>OFIMÁTICA</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_14>
+          </se_4>
+        </mod_6>
+      </plan_2>
+    </unidaddes_didacticas>
+    <unidaddes_didacticas>
       <plan_6>
         <nombre>2025</nombre>
         <resolucion>--</resolucion>
@@ -924,6 +1255,389 @@
     <codigo>MA</codigo>
     <tipo>Modular</tipo>
     <nombre>MECATRONICA AUTOMOTRIZ</nombre>
+    <unidaddes_didacticas>
+      <plan_4>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:05</fecha_registro>
+        <mod_11>
+          <nro_modulo>1</nro_modulo>
+          <descripcion>MANTENIMIENTO PROGRAMADO Y REPARACIÓN DE LOS SISTEMAS DE CONTROL DEL VEHÍCULO</descripcion>
+          <se_7>
+            <descripcion>I</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_7>
+          <se_8>
+            <descripcion>II</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_8>
+        </mod_11>
+        <mod_12>
+          <nro_modulo>2</nro_modulo>
+          <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA ELÉCTRICO Y ELECTRÓNICO AUTOMOTRIZ</descripcion>
+          <se_7>
+            <descripcion>I</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_7>
+          <se_8>
+            <descripcion>II</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_8>
+        </mod_12>
+        <mod_13>
+          <nro_modulo>3</nro_modulo>
+          <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE TRANSMISIÓN.</descripcion>
+          <se_7>
+            <descripcion>I</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_7>
+          <se_8>
+            <descripcion>II</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_8>
+        </mod_13>
+        <mod_14>
+          <nro_modulo>4</nro_modulo>
+          <descripcion>MANTENIMIENTO Y REPARACIÓN DE MOTORES DE COMBUSTIÓN INTERNA Y SISTEMAS ELECTRÓNICOS.</descripcion>
+          <se_7>
+            <descripcion>I</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_7>
+          <se_8>
+            <descripcion>II</descripcion>
+            <se_19>
+              <nombre>DESARROLLO DE ENTORNOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_19>
+            <se_20>
+              <nombre>PROGRAMACIÓN DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_20>
+            <se_21>
+              <nombre>PROYECTOS DE SOFTWARE</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_21>
+            <se_22>
+              <nombre>SEGURIDAD EN APLICACIONES WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_22>
+            <se_24>
+              <nombre>COMPRENSIÓN Y REDACCIÓN EN INGLÉS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>5</orden>
+            </se_24>
+            <se_25>
+              <nombre>COMPORTAMIENTO ÉTICO</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_25>
+          </se_8>
+        </mod_14>
+      </plan_4>
+    </unidaddes_didacticas>
     <unidaddes_didacticas>
       <plan_8>
         <nombre>2025</nombre>
@@ -1744,6 +2458,445 @@
     <codigo>PA</codigo>
     <tipo>Modular</tipo>
     <nombre>PRODUCCIÓN AGROPECUARIA</nombre>
+    <unidaddes_didacticas>
+      <plan_5>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:23</fecha_registro>
+        <mod_15>
+          <nro_modulo>1</nro_modulo>
+          <descripcion>GESTIÓN DE LA PRODUCCIÓN DE CULTIVOS</descripcion>
+          <se_9>
+            <descripcion>III</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_9>
+          <se_10>
+            <descripcion>IV</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_10>
+        </mod_15>
+        <mod_16>
+          <nro_modulo>2</nro_modulo>
+          <descripcion>GESTIÓN DE LA PRODUCCIÓN PECUARIA</descripcion>
+          <se_9>
+            <descripcion>III</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_9>
+          <se_10>
+            <descripcion>IV</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_10>
+        </mod_16>
+        <mod_17>
+          <nro_modulo>3</nro_modulo>
+          <descripcion>PREVENCIÓN Y MANEJO SANITARIO Y FITOSANITARIO</descripcion>
+          <se_9>
+            <descripcion>III</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_9>
+          <se_10>
+            <descripcion>IV</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_10>
+        </mod_17>
+        <mod_18>
+          <nro_modulo>4</nro_modulo>
+          <descripcion>APROVECHAMIENTO Y MERCADEO DE PRODUCTOS AGROPECUARIOS</descripcion>
+          <se_9>
+            <descripcion>III</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_9>
+          <se_10>
+            <descripcion>IV</descripcion>
+            <se_26>
+              <nombre>PROGRAMACIÓN DE APLICACIONES MÓVILES</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>3</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>1</orden>
+            </se_26>
+            <se_27>
+              <nombre>MARKETING DIGITAL</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>2</orden>
+            </se_27>
+            <se_28>
+              <nombre>DISEÑO DE SOLUCIONES WEB</nombre>
+              <creditos_teorico>2</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>3</orden>
+            </se_28>
+            <se_29>
+              <nombre>GESTIÓN Y ADMINISTRACIÓN DE SITIOS WEB</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>4</orden>
+            </se_29>
+            <se_30>
+              <nombre>DIAGRAMACIÓN DIGITAL</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>2</creditos_practico>
+              <tipo>ESPECIALIDAD</tipo>
+              <orden>5</orden>
+            </se_30>
+            <se_31>
+              <nombre>SOLUCIÓN DE PROBLEMAS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>6</orden>
+            </se_31>
+            <se_32>
+              <nombre>OPORTUNIDADES DE NEGOCIOS</nombre>
+              <creditos_teorico>1</creditos_teorico>
+              <creditos_practico>1</creditos_practico>
+              <tipo>EMPLEABILIDAD</tipo>
+              <orden>7</orden>
+            </se_32>
+          </se_10>
+        </mod_18>
+      </plan_5>
+    </unidaddes_didacticas>
     <unidaddes_didacticas>
       <plan_9>
         <nombre>2025</nombre>

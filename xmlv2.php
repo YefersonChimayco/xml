@@ -56,57 +56,56 @@ while ($pe = mysqli_fetch_assoc($resultado)) {
             $num_mod->appendChild($descripcion_mod);
 
             //----------------
-      $et_plan = $xml->createElement('semestres');
-        $consulta_se = "SELECT*FROM sigi_semestre WHERE id_modulo_formativo=" . $plan['id'];
-        $resultado_se = $conexion->query($consulta_se);
-        while ($se = mysqli_fetch_assoc($resultado_se)) {
-            echo $se['descripcion'] . "<br>";
-            $num_se = $xml->createElement('se_' . $se['id']);
+            $et_plan = $xml->createElement('semestres');
+            $consulta_se = "SELECT*FROM sigi_semestre WHERE id_modulo_formativo=" . $plan['id'];
+            $resultado_se = $conexion->query($consulta_se);
+            while ($se = mysqli_fetch_assoc($resultado_se)) {
+                echo $se['descripcion'] . "<br>";
+                $num_se = $xml->createElement('se_' . $se['id']);
 
-            $descripcion_se = $xml->createElement('descripcion', $se['descripcion']);
-            $num_se->appendChild($descripcion_se);
+                $descripcion_se = $xml->createElement('descripcion', $se['descripcion']);
+                $num_se->appendChild($descripcion_se);
 
-//-----------
-$et_plan = $xml->createElement('unidaddes_didacticas');
-        $consulta_ud = "SELECT*FROM sigi_unidad_didactica WHERE id_semestre=" . $plan['id'];
-        $resultado_ud = $conexion->query($consulta_ud);
-        while ($ud = mysqli_fetch_assoc($resultado_ud)) {
-            echo $ud['nombre'] . "<br>";
-            $num_ud = $xml->createElement('se_' . $ud['id']);
+                //-----------
+                $et_plan = $xml->createElement('unidaddes_didacticas');
+                $consulta_ud = "SELECT*FROM sigi_unidad_didactica WHERE id_semestre=" . $plan['id'];
+                $resultado_ud = $conexion->query($consulta_ud);
+                while ($ud = mysqli_fetch_assoc($resultado_ud)) {
+                    echo $ud['nombre'] . "<br>";
+                    $num_ud = $xml->createElement('se_' . $ud['id']);
 
-            $nombre_ud = $xml->createElement('nombre', $ud['nombre']);
-            $num_ud->appendChild($nombre_ud);
-             $creditos_teorico_ud = $xml->createElement('creditos_teorico', $ud['creditos_teorico']);
-            $num_ud->appendChild($creditos_teorico_ud);
- $creditos_practico_ud = $xml->createElement('creditos_practico', $ud['creditos_practico']);
-            $num_ud->appendChild($creditos_practico_ud);
+                    $nombre_ud = $xml->createElement('nombre', $ud['nombre']);
+                    $num_ud->appendChild($nombre_ud);
+                    $creditos_teorico_ud = $xml->createElement('creditos_teorico', $ud['creditos_teorico']);
+                    $num_ud->appendChild($creditos_teorico_ud);
 
-             $tipo_ud = $xml->createElement('tipo', $ud['tipo']);
-            $num_ud->appendChild($tipo_ud);
+                    $creditos_practico_ud = $xml->createElement('creditos_practico', $ud['creditos_practico']);
+                    $num_ud->appendChild($creditos_practico_ud);
+
+                    $tipo_ud = $xml->createElement('tipo', $ud['tipo']);
+                    $num_ud->appendChild($tipo_ud);
+
+                    $orden_ud = $xml->createElement('orden', $ud['orden']);
+                    $num_ud->appendChild($orden_ud);
+
+
+                    $num_se->appendChild($num_ud);
+                }
+                $num_mod->appendChild($num_se);
             
-             $orden_ud = $xml->createElement('orden', $ud['orden']);
-            $num_ud->appendChild($orden_ud);
-
-
-            $num_se->appendChild($num_ud);
-        }
-            $num_mod->appendChild($num_se);
-
-        }
 
             $num_plan->appendChild($num_mod);
-    }
-            $et_plan->appendChild($num_plan);
         }
-        $num_pe->appendChild($et_plan);
-        $et1->appendChild($num_pe);
+        $et_plan->appendChild($num_plan);
     }
+    $num_pe->appendChild($et_plan);
+    $et1->appendChild($num_pe);
+}
 
 
 
 
 
-    $archivo = "ies2.xml";
-    $xml->save($archivo);
-
-
+$archivo = "ies2.xml";
+$xml->save($archivo);
+}
