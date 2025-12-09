@@ -1,10 +1,10 @@
 <?php
-$conexion = new mysqli("localhost", "root", "");
+$conexion = new mysqli("localhost", "root", "root");
 if ($conexion->connect_errno) {
     echo "Fallo al conectar a MySQL: (" . $conexion->connect_errno . ") " . $conexion->connect_error;
 }
 
-$nombreBD = "prueba";
+$nombreBD = "version3";
 
 $conexion->query("DROP DATABASE IF EXISTS $nombreBD");
 $conexion->query("CREATE DATABASE $nombreBD CHARACTER SET utf8mb3 COLLATE utf8mb3_spanish2_ci");
@@ -70,51 +70,51 @@ $conexion->query("CREATE TABLE sigi_unidad_didactica (
 $xml = simplexml_load_file('ies2.xml') or die('ERROR NO SE CARGÓ EL XML. escribe correctamente el nombre del archivo');
 
 foreach ($xml as $i_pe => $pe) {
-    echo '---' . $pe->nombre . '<br>';
-    echo '---' . $pe->codigo . '<br>';
-    echo '---' . $pe->tipo . '<br>';
+    echo '---Nombre del program de estudios : ' . $pe->nombre . '<br>';
+    echo '--- Codigo : ' . $pe->codigo . '<br>';
+    echo '---Tipo : ' . $pe->tipo . '<br>';
     
-    $sql_pe = "INSERT INTO sigi_programa_estudios (codigo, tipo, nombre) VALUES ('$pe->codigo', '$pe->tipo', '$pe->nombre')";
-    $conexion->query($sql_pe);
+    $consulta = "INSERT INTO sigi_programa_estudios (codigo, tipo, nombre) VALUES ('$pe->codigo', '$pe->tipo', '$pe->nombre')";
+    $conexion->query($consulta);
     $id_pe = $conexion->insert_id;
 
     foreach ($pe->planes_estudio[0] as $i_ple => $plan) {
         echo $plan->nombre;
-        echo '-----' . $plan->nombre.'<br>';
-        echo '-----' . $plan->resolucion.'<br>';
-        echo '-----' . $plan->fecha_registro.'<br>';
-        
+        echo '-----nombre del plan : ' . $plan->nombre.'<br>';
+        echo '-----Nombre de la resolucion: ' . $plan->resolucion.'<br>';
+        echo '-----LA Fecha del registro : ' . $plan->fecha_registro.'<br>';
         $fecha = date('Y-m-d H:i:s', strtotime($plan->fecha_registro));
-        $sql_plan = "INSERT INTO sigi_planes_estudio (id_programa_estudios, nombre, resolucion, fecha_registro, perfil_egresado) 
+
+        $consulta = "INSERT INTO sigi_planes_estudio (id_programa_estudios, nombre, resolucion, fecha_registro, perfil_egresado) 
                      VALUES ($id_pe, '$plan->nombre', '$plan->resolucion', '$fecha', '')";
-        $conexion->query($sql_plan);
+        $conexion->query($consulta);
         $id_plan = $conexion->insert_id;
 
         foreach ($plan->modulos_formativos[0] as $id_mod => $modulo) {
-            echo '-----' . $modulo->descripcion.'<br>';
-            echo '-----' . $modulo->nro_modulo.'<br>';
+            echo '----- Descripcion : ' . $modulo->descripcion.'<br>';
+            echo '----- NUmero del modulo : ' . $modulo->nro_modulo.'<br>';
             
-            $sql_modulo = "INSERT INTO sigi_modulo_formativo (descripcion, nro_modulo, id_plan_estudio) 
+            $consulta = "INSERT INTO sigi_modulo_formativo (descripcion, nro_modulo, id_plan_estudio) 
                            VALUES ('$modulo->descripcion', $modulo->nro_modulo, $id_plan)";
-            $conexion->query($sql_modulo);
+            $conexion->query($consulta);
             $id_modulo = $conexion->insert_id;
 
             foreach ($modulo->periodos[0] as $id_per => $per) {
-                echo '-----' . $per->descripcion.'<br>';
+                echo '----- Descricipcion del periodo : ' . $per->descripcion.'<br>';
                 
-                $sql_per = "INSERT INTO sigi_semestre (descripcion, id_modulo_formativo) 
+                $consulta = "INSERT INTO sigi_semestre (descripcion, id_modulo_formativo) 
                             VALUES ('$per->descripcion', $id_modulo)";
-                $conexion->query($sql_per);
+                $conexion->query($consulta);
                 $id_periodo = $conexion->insert_id;
                 
                 $orden = 1;
                 foreach ($per->unidades_didacticas[0] as $id_ud => $ud) {
-                    echo '-----' . $ud->nombre.'<br>';
-                    echo '-----' . $ud->creditos_teorico.'<br>';
-                    echo '-----' . $ud->creditos_practico.'<br>';
-                    echo '-----' . $ud->tipo.'<br>';
-                    echo '-----' . $ud->horas_semanal.'<br>';
-                    echo '-----' . $ud->horas_semestral.'<br>';
+                    echo '-----Nombre ud: ' . $ud->nombre.'<br>';
+                    echo '----- Creditos teoricos : ' . $ud->creditos_teorico.'<br>';
+                    echo '-----Creditos practicos : ' . $ud->creditos_practico.'<br>';
+                    echo '-----Tipo : ' . $ud->tipo.'<br>';
+                    echo '-----Hora semanal : ' . $ud->horas_semanal.'<br>';
+                    echo '-----Hora semestral : ' . $ud->horas_semestral.'<br>';
                     
                     $sql_ud = "INSERT INTO sigi_unidad_didactica 
                                (nombre, id_semestre, creditos_teorico, creditos_practico, tipo, orden) 
